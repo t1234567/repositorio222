@@ -16,7 +16,6 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 
 		System.out.println("Holamundo");
-		System.out.println("Adios");
 
 	}
 
